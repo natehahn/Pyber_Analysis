@@ -8,4 +8,4 @@
 
 
 
-![Total Fares by Week](/Analysis/PyBer_fare_summary.png)
+![Total Fares by Week](/Module 5 Challenge/Analysis/PyBer_fare_summary.png)
